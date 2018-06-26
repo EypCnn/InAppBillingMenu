@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2018. EypCnn
+  -->
+
+<resources>
+    <color name="colorPrimary">#fff</color>
+    <color name="colorPrimaryDark">#bdc3c7</color>
+    <color name="colorAccent">#e74c3c</color>
+    <color name="black">#000</color>
+    <color name="primary_text_color">@color/white</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_50_percent_transparency">#80FFFFFF</color>
+    <color name="gray">#68768A</color>
+    <color name="darkgray">#515C6B</color>
+</resources>

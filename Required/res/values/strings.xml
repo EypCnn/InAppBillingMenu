@@ -1,0 +1,42 @@
+<!--
+  ~ Copyright (c) 2018. EypCnn
+  -->
+
+<resources>
+    <string name="app_name">Uygulama İçi Satın Alma</string>
+
+    <string name="github">GitHub</string>
+    <string name="githubdes">Fork the project in github.</string>
+    <string name="googleplus">Google Plus</string>
+    <string name="googleplusdes">Join the Google plus community.</string>
+    <string name="translate">Translate</string>
+    <string name="translatedes">Help translating EypCnApp to your native language.</string>
+    <string name="rate">Rate app</string>
+    <string name="ratedes">Love this app let us know in Google play store to provide better experience</string>
+    <string name="share">Share</string>
+
+    <string name="support_development">Support Development</string>
+    <string name="support_development_summary">If you enjoy using EypCnnApp consider donation as support to my work.</string>
+
+    <string name="social">Social</string>
+    <string name="instagram_page">Instagram</string>
+    <string name="instagram_page_summary">Share your EypCnnApp setup to show case in instagram</string>
+
+    <string name="twitter_page">Twitter Page</string>
+    <string name="twitter_page_summary">Share your design with EypCnnApp</string>
+
+    <string name="githublink">https://github.com/EypCnn</string>
+    <string name="googlepluslink">https://plus.google.com/discover</string>
+    <string name="translatelink">https://www.oneskyapp.com</string>
+    <string name="appratelink">https://play.google.com/store/apps/dev?id=7415576443690303724</string>
+    <string name="instagramlink">http://instagram.com/_u/eypcnnx</string>
+    <string name="twitterlink">https://twitter.com/EypCnnx</string>
+
+    <string name="cookie">Cookie</string>
+    <string name="dietcola">Diet Cola</string>
+    <string name="coffee">Coffee</string>
+    <string name="buttermilk">Buttermilk</string>
+    <string name="fastfoot">Fastfood</string>
+    <string name="popcorn">Popcorn</string>
+    <string name="gift">Gift</string>
+</resources>
